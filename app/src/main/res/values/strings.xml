@@ -4,5 +4,6 @@
     <string name="sign_in">SIGN IN</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
-    <string name="search_title">Search</string>
+    <string name="search_hint">Start typing (e.g.: knock)</string>
+    <string name="no_jokes">No jokes :^(</string>
 </resources>
